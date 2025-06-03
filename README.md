@@ -1,16 +1,89 @@
-## Hi there 👋
+![Profile Views](https://komarev.com/ghpvc/?username=AbdulSaboorQA&label=Profile%20views&color=0e75b6&style=flat)
 
-<!--
-**AbdulSaboorQA/AbdulSaboorQA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I’m Abdul Saboor, a QA Engineer on a Mission to Break Things (So You Don’t)
 
-Here are some ideas to get you started:
+With 5+ years of manual testing experience and 2+ years in automation, I’ve worked on 13+ products used by more than 25 million people worldwide. From apps to complex APIs and multi-platform releases, I bring a structured, thoughtful approach to ensuring quality.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I help teams catch critical issues before users do by designing smart test plans, writing meaningful test cases, automating where it counts, and collaborating closely with developers. To me, QA isn’t just about finding bugs it’s about improving the product, supporting the team, and delivering smooth, confident releases.
+
+---
+
+## 🛠️ The Tech That Powers My QA Life
+
+**Automation Tools**  
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress)
+![Appium](https://img.shields.io/badge/-Appium-8B3DF9?style=flat&logo=appium)
+
+**Languages**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
+**API & Performance Testing**  
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![JMeter](https://img.shields.io/badge/-JMeter-D22128?style=flat)
+
+**CI/CD & DevOps**  
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+**Test Management & Docs**  
+![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat&logo=jira&logoColor=white)
+![TestRail](https://img.shields.io/badge/-TestRail-1A73E8?style=flat)
+![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=white)
+![Linear](https://img.shields.io/badge/-Linear-5E6AD2?style=flat)
+![Google Docs](https://img.shields.io/badge/-Google%20Docs-4285F4?style=flat&logo=google-docs&logoColor=white)
+
+**Cross-Platform Testing**  
+![BrowserStack](https://img.shields.io/badge/-BrowserStack-FF9933?style=flat&logo=browserstack&logoColor=white)
+![Chrome DevTools](https://img.shields.io/badge/-Chrome%20DevTools-4285F4?style=flat&logo=google-chrome&logoColor=white)
+
+**Currently Exploring**  
+Java • Playwright • Prompt Engineering • Generative AI
+
+---
+
+## 🚀 What Excites Me About QA
+
+- Uncovering bugs no one saw coming  
+- Turning messy workflows into clean, automated tests  
+- Collaborating with developers and PMs early in the process  
+- Designing test plans that prevent late surprises  
+- Finding the one edge case that breaks everything, and fixing it before it reaches users
+
+---
+
+## 📈 Proud Moments in My QA Journey
+
+- Helped test and launch 16+ products used by over 25 million users  
+- Mentored 3 QA engineers and led a small QA team  
+- Introduced shift-left testing practices to accelerate releases  
+- Completed 329+ hours of advanced QA training  
+- Self-learned UI and API automation 
+
+---
+
+## 🔁 Currently Revisiting
+
+- Java (for enhanced automation structure)  
+- Playwright (for modern cross-browser automation)  
+- Grafana k6 (for performance testing and monitoring)  
+- Generative AI & prompt engineering (to enhance QA workflows)
+
+---
+
+## 🗣️ Got a Bug to Catch Together?
+
+Whether you're hiring, collaborating, or just want to connect over QA, I’d love to chat.
+
+📧 Email: [abdul.saboor0001@gmail.com](mailto:abdul.saboor0001@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/abdulsaboorsqaengineer](https://www.linkedin.com/in/abdulsaboorsqaengineer)  
+📝 Medium: [medium.com/@abdsaboorshoukat](https://medium.com/@abdsaboorshoukat)
+
+---
+
+## ⚡ Fun Fact
+
+When I’m not testing software, I’m probably at the gym, watching a new series, or trying to convince my cat to let me work in peace. I also love playing badminton and table tennis, anything with speed and precision!
