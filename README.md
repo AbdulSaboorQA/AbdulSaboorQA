@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=AbdulSaboorQA&label=Profile%20views&color=0e75b6&style=flat)
 
-# 👋 Hi, I’m Abdul Saboor, a QA Engineer on a Mission to Break Things (So You Don’t)
+# 👋 Hi, I’m Abdul Saboor, an ISTQB Certified QA Engineer on a Mission to Break Things (So You Don’t)
 
 With 5+ years of manual testing experience and 2+ years in automation, I’ve worked on 13+ products used by more than 25 million people worldwide. From apps to complex APIs and multi-platform releases, I bring a structured, thoughtful approach to ensuring quality.
 
@@ -41,7 +41,10 @@ I help teams catch critical issues before users do by designing smart test plans
 ![Chrome DevTools](https://img.shields.io/badge/-Chrome%20DevTools-4285F4?style=flat&logo=google-chrome&logoColor=white)
 
 **Currently Exploring**  
-Java • Playwright • Prompt Engineering • Generative AI
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-2EC866?style=flat&logo=playwright&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-000000?style=flat)
+![Generative AI](https://img.shields.io/badge/-Generative%20AI-FF007F?style=flat)
 
 ---
 
@@ -57,6 +60,7 @@ Java • Playwright • Prompt Engineering • Generative AI
 
 ## 📈 Proud Moments in My QA Journey
 
+- ISTQB Certification
 - Helped test and launch 16+ products used by over 25 million users  
 - Mentored 3 QA engineers and led a small QA team  
 - Introduced shift-left testing practices to accelerate releases  
@@ -78,9 +82,9 @@ Java • Playwright • Prompt Engineering • Generative AI
 
 Whether you're hiring, collaborating, or just want to connect over QA, I’d love to chat.
 
-📧 Email: [abdul.saboor0001@gmail.com](mailto:abdul.saboor0001@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/abdulsaboorsqaengineer](https://www.linkedin.com/in/abdulsaboorsqaengineer)  
-📝 Medium: [medium.com/@abdsaboorshoukat](https://medium.com/@abdsaboorshoukat)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abdul.saboor0001@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulsaboorsqaengineer)
+[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@abdsaboorshoukat)
 
 ---
 
