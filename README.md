@@ -61,11 +61,11 @@ I help teams catch critical issues before users do by designing smart test plans
 ## 📈 Proud Moments in My QA Journey
 
 - ISTQB Certification
-- Helped test and launch 16+ products used by over 25 million users  
+- Helped test and launch 13+ products used by over 25 million users  
 - Mentored 3 QA engineers and led a small QA team  
-- Introduced shift-left testing practices to accelerate releases  
-- Completed 329+ hours of advanced QA training  
+- Introduced shift-left testing practices to accelerate releases
 - Self-learned UI and API automation 
+- Completed 329+ hours of advanced QA training  
 
 ---
 
